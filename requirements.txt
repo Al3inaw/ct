@@ -1,0 +1,11 @@
+pyautogui
+pyttsx3
+pygame
+colorama
+rich
+pyfiglet
+cryptography
+tkinter
+alive-progress
+scapy
+tqdm
